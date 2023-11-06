@@ -1,4 +1,5 @@
 ---
+title: "hello_sample"
 page_order: 0.5
 nav_title: Video Test Page
 layout: featured_video
