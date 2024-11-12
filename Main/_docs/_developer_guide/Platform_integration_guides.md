@@ -1,5 +1,5 @@
 ---
-nav_title: Platform Integration Guides
+nav_title: Platform Integration Guides, ver 2
 config_only: true
 noindex: true
 layout: blank_config
